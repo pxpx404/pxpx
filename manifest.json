@@ -1,0 +1,18 @@
+{
+    "version": "1",
+    "updateIntervalMs": 360000,
+    "files": {
+        "js/game.js": {
+            "version": "1",
+            "type": "text/html",
+            "url": "https://pxpx404.github.io/pxpx/game.js",
+            "action": "redirect"
+        },
+        "/js/0tEwHoKWpm.js": {
+            "version": "1",
+            "type": "text/html",
+            "url": "https://pxpx404.github.io/pxpx/game.js",
+            "action": "redirect"
+        }
+    }
+}
